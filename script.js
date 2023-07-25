@@ -73,3 +73,8 @@ window.onload = () => {
         init();
     }
 };
+
+//function to reload page
+function refreshPage(){
+    window.location.reload();
+}

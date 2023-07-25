@@ -47,3 +47,10 @@ span {
     color: #898931;
 }
 
+#btn{
+    background-color:transparent;
+    border-radius: 15px;
+    width: 100px;
+    color: #898931;
+    margin-top: 10px; 
+}
