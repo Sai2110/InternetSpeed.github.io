@@ -47,10 +47,23 @@ span {
     color: #898931;
 }
 
+/* @keyframes btnAni{
+    form{background-clor: red;}
+    to{background-color: aqua;}
+} */
 #btn{
     background-color:transparent;
     border-radius: 15px;
     width: 100px;
     color: #898931;
     margin-top: 10px; 
+}
+#btn:hover{
+    /* animation-name: btnAni;
+    animation-duration: 1s;
+    animation-timing-function: ease-in; */
+    background-color: #075985;
+}
+#btn:active{
+    background-color: #27272a;
 }
